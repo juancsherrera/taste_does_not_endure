@@ -20,13 +20,11 @@ https://github.com/juancsherrera/taste_does_not_endure/
 
 $ ls
 |- notebooks/
-   |- 
    |- Taste Does Not Endure EDA and Static Analysis.ipynb
    |- Taste Does Not Endure Dynamic.ipynb
    |- Taste Does Not Endure Two Categories.ipynb
 |- readme.md
 |- readme_images_folder
-|- scripts/
 |- deprecated
    |- Plotly for potential deployment.ipynb
 ```
