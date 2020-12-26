@@ -1,7 +1,7 @@
 # Taste Does not Endure: 
 ## Network Science Dynamics of Food Recipes from 1977-2017
 
-![alt text](https://github.com/juancsherrera/DS4CO_Team92/blob/main/readme_images_folder/header12.png?raw=true)
+![alt text](https://github.com/juancsherrera/taste_does_not_endure/raw/main/readme_images_files/cross_sectional_github.png)
 
 **Authors:** 
 - **Juan C. S. Herrera**: New York University, PhD Food Studies and Food Management, jsh501@nyu.edu
